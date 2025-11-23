@@ -16,6 +16,14 @@ This project contains Backstage plugins (frontend and backend) that provide the 
 - **Third-Party Integration**: Bridge the gap between Backstage and external tools or services.
 - **Bi-directional Communication**: Enables communication between the embedded app and Backstage using `window.postMessage`, allowing for rich interactions and data exchange.
 
+# Roadmap
+
+To do:
+🔲 Origin checks
+🔲 Communicate with Backstage over postMessage (subject to security). For example, on initial load, post a token with info about the user so the client app can communicate with Backstage.
+🔲 CSP adjustment on the instance
+
+
 ## Communication
 
 The plugin supports a communication protocol based on `window.postMessage`. This allows the embedded "stitch" app to send messages to the Backstage host and receive responses, enabling tight integration with Backstage's context and APIs.
