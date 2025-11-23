@@ -23,3 +23,8 @@ The plugin supports a communication protocol based on `window.postMessage`. This
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# See live recording of the development process    
+
+https://www.youtube.com/live/-LHUrh2kAng (Part 1)
+https://www.youtube.com/live/wpUqxHKq5wE (Part 2)
