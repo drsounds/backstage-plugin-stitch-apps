@@ -1,0 +1,6 @@
+[submodule "backstage-plugin-stitch-apps-backend"]
+	path = backstage-plugin-stitch-apps-backend
+	url = git@github.com:drsounds/backstage-plugin-stitch-apps-backend
+[submodule "backstage-plugin-stitch-apps-frontend"]
+	path = backstage-plugin-stitch-apps-frontend
+	url = git@github.com:drsounds/backstage-plugin-stitch-apps-frontend
